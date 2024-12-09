@@ -27,7 +27,7 @@
         </ul>
     </p>
 
-    <h2>Weekly Schedule</h2>
+<h3>Weekly Schedule</h3>
 <table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
     <thead>
         <tr style="background-color: #f2f2f2; color: black;">
