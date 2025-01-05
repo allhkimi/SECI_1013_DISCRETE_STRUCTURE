@@ -10,22 +10,13 @@
     <h2>Course Background</h2>
     <p>
         <strong>Credit Hours:</strong> 3<br>
-        <strong>Pre/co-requisite:</strong> None<br>
         <strong>Synopsis:</strong> 
         This course introduces students to the principles and applications of discrete structure in the field of computer science. 
         Topics covered include set theory, proof techniques, relations, functions, recurrence relations, counting methods, graph 
         theory, trees, and finite automata. Students will learn to solve computer science problems using these concepts and apply 
         them in real-world scenarios.
     </p>
-    <p>
-        At the end of the course, students should be able to:
-        <ul>
-            <li>Use set theory, relations, and functions to solve problems.</li>
-            <li>Analyze and solve problems using recurrence relations and counting methods.</li>
-            <li>Apply graph theory and trees in real-world problems.</li>
-            <li>Model electronic devices using deterministic finite automata and finite state machines.</li>
-        </ul>
-    </p>
+    
 
 <h3>Weekly Schedule</h3>
 <table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
