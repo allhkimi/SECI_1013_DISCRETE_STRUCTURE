@@ -99,6 +99,24 @@
             <td style="border: 1px solid black; padding: 8px;">Quiz 4; Final Exam Preparation</td>
         </tr>
     </tbody>
+    <section id="reflection" class="mt-5">
+    <h2 class="text-center mb-4">Reflection</h2>
+    <div class="container">
+        <p>
+            In the <strong>Discrete Structure</strong> subject, many key concepts in mathematics were introduced. The course began with set theory, where different types of sets, operations on sets, and Venn diagrams were studied to understand how elements are grouped and related.
+
+Probability was also covered, teaching how to calculate the likelihood of events occurring. Basic probability rules and concepts, such as conditional probability and independent events, were applied to real-life situations.
+
+The pigeonhole principle was introduced, which explained how objects distributed into boxes will lead to at least one box containing more than one object. This principle was used to solve various counting problems.
+
+Combinations and permutations were explored to understand how to count different arrangements and selections. The importance of order in permutations and the idea of choosing items without regard to order in combinations were learned and practiced.
+
+The topic of graphs was also studied, including different types of graphs, such as directed and undirected, and how to represent and analyze networks. Finally, the concept of functions was discussed, including domain, range, and types of functions like injective, surjective, and bijective.
+
+By the end of the course, a solid understanding of these discrete mathematical concepts was gained, which are crucial for problem-solving in computer science and programming.
+        </p>
+    </div>
+</section>
 </table>
 
 </body>
