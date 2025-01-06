@@ -99,7 +99,8 @@
             <td style="border: 1px solid black; padding: 8px;">Quiz 4; Final Exam Preparation</td>
         </tr>
     </tbody>
-    <section id="reflection" class="mt-5">
+</table>
+<section id="reflection" class="mt-5">
     <h2 class="text-center mb-4">Reflection</h2>
     <div class="container">
         <p>
@@ -117,7 +118,6 @@ By the end of the course, a solid understanding of these discrete mathematical c
         </p>
     </div>
 </section>
-</table>
 
 </body>
 </html>
